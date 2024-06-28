@@ -9,7 +9,7 @@ Hello, I'm Ethan, a student learning about data analysis, reporting, query optim
 
 ### 💻 Projects
 
-My portfolio showcasing my [projects](https://github.com/ethantsaox/Portfolio-Guide/blob/main/README.md)
+My portfolio showcasing my [projects](https://github.com/ethantsaox/Porfolio/blob/main/README.md)
 
 ### 🔩 Tools
 
