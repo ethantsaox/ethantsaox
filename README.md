@@ -2,8 +2,8 @@
 
 Hello, I'm Ethan, a student learning about data analysis, reporting, query optimization, database design, and machine learning.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
+- Querying data and performing data analysis using SQL.
+- Proficient in JupyterLab/Notebook and various visualization tools
 - Developing dashboards on Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
