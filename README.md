@@ -14,8 +14,8 @@ My portfolio showcasing my [projects](https://github.com/ethantsaox/Porfolio/blo
 ### 🔩 Tools
 
 - Language: SQL, Python, R, SAS
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Database: PostgreSQL, MySQL
+- Platforms: Google Colab, JupyterLab/Notebook
 
 ### 🖇️ Connect with Me
 
