@@ -13,9 +13,8 @@ My portfolio showcasing my [projects](https://github.com/ethantsaox/Porfolio/blo
 ### 🔩 Tools
 
 - Language: SQL, Python, R, SAS
-- Frameworks: PyTorch, SciKit Learn, Pandas, NumPy, Seaborn, plotly, Matplotlib
+- Frameworks: SciKit Learn, Pandas, NumPy, Seaborn, plotly, Matplotlib
 - Platforms: Google Colab, JupyterLab/Notebook
-- Data Viz: Tableau
 
 ### 🖇️ Connect with Me
 
