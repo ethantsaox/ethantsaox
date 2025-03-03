@@ -5,7 +5,6 @@ Hello, I'm Ethan, a student learning about data analysis, reporting, query optim
 - Querying data and performing data analysis using SQL.
 - Proficient in JupyterLab/Notebook and various visualization tools
 - ML model building and Sports Analytics
-- Data analysis and reporting using Google Sheets and Excel.
 
 ### 💻 Projects
 
